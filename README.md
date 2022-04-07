@@ -26,4 +26,4 @@ to run the app
 * Implementing mongoDB to keep our data safe when server restarts
 
 ## Tasks to do:
-*Add some kind of authentication so that tasks show up for particular users
+* Add some kind of authentication so that tasks show up for particular users
